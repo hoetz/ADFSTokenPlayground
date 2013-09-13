@@ -3,7 +3,7 @@ using System.IdentityModel.Protocols.WSTrust;
 using System.IdentityModel.Tokens;
 using System.Security.Cryptography.X509Certificates;
 
-namespace ADFSTokenPlayground.TokenInfrastructure
+namespace ADFSTokenPlayground
 {
     public class SamlToJwtConverter
     {

@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace ADFSTokenPlayground.TokenInfrastructure
+namespace ADFSTokenPlayground
 {
     public class TokenResponse
     {
